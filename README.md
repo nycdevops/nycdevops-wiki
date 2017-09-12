@@ -1,4 +1,4 @@
-# nycdevops
+# nycdevops planners wiki
 
 # Quick Links and Resources
 
