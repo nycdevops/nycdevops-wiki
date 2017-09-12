@@ -18,10 +18,12 @@
 
   * Join the Meetup.com group.
   * Join the nycdevops-planners mailing list.
-  * Join the Slack channel .
+  * Join the Slack channel.
+  * Get read/write access to this wiki (let Tom know your GitHub handle)
   * Make sure you have access to the planning spreadsheet. 
   * Add your name to this web page.
   * Email Nicole and ask for admin access to the meetup. 
+
 
 # Runbook for planning events:
 
