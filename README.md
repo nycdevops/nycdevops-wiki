@@ -1,6 +1,6 @@
 # nycdevops planners wiki
 
-<p><img src="images/NYCDevOps_logo2017_lores.png" width="10%" height="10%"></p>
+<p><img src="images/NYCDevOps_logo2017_lores.png" width="30%" height="30%"></p>
 
 # Quick Links and Resources
 
