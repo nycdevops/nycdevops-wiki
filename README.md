@@ -1,5 +1,7 @@
 # nycdevops planners wiki
 
+<p><img src="images/NYCDevOps_logo2017_lores.png" height="50%"></p>
+
 # Quick Links and Resources
 
 * The meetup page: [http://www.meetup.com/nycdevops](http://www.meetup.com/nycdevops)
@@ -42,7 +44,14 @@
       * https://www.newyorkgrocery.com
       * 2 x 2L coke, 2x 2L coke zero, 2x 2L sprite for 60 RSVPs. 
       * Heinekin Light Slim Can 12pk | Sam Adams Summer Ale 12pk Cans | Stone Delicious IPA 12pk 
- 
+
+# Logos
+
+  * [EPS](images/NYCDevOps_logo2017.eps)
+  * high-res [JPG](images/NYCDevOps_logo2017_hires.jpg)
+  * low-res [JPG](images/NYCDevOps_logo2017_lores.png)
+
+
 # Sponsors:
 
   * If anyone asks: Yes, we're always looking for sponsors. 
