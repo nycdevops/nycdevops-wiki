@@ -31,11 +31,14 @@
 
   * Prior to the event:
     * Reach out to the host and confirm the location. 
-  * When the speaker is confirmed:
-    * Announce the meeting. 
-  * 1 week before:
+  * When the **speaker is confirmed:**
+    * Update meetup.com. Announce the meeting.
+    * Post on everythingsysadmin.com NOW
+    * Post on everythingsysadmin.com scheduled for 1 week prior.
+    * Send ticket to Stack A/V people that we'll need help.
+  * *1 week before:*
     * Re-announce 
-  * Day before: Order food.
+  * Day before: *Order food.*
     * Count RSVPs. Assume 50% will show up. 
     * Order 1 pizza for every 10 likely attendees.
     * StackHQ:
