@@ -59,3 +59,17 @@
 
   * If anyone asks: Yes, we're always looking for sponsors. 
   * Sponsors are on a first come, first served basis.  First person to mark [the spreadsheet](https://docs.google.com/spreadsheets/d/1ADyrpX3PK-etBq4M_KhdLC9COet39Vuy5caeIA6OyTc/edit) is the  sponsor.
+
+
+# Speaker tips
+
+This is what we paste in an email to speakers:
+
+Sorry for the form letter style of this but... here are some notes and tips that we've found help make a successful event:
+
+* We ask speakers to keep the talk to about 30-40 minutes, with 20 minutes for Q&A.  Our attendees enjoy the dialog.
+* Our attendees are very technical. Don't hold back the technical info. No sales pitches.
+* The most successful presentations have at least one rehearsal in front of a live audience to give feedback.  We recommend doing the talk for coworkers prior to the event.  Alternatively we have volunteers that would gladly do a rehearsal with you over video chat; they give excellent feedback.  
+* In the unlikely event that a problem arises and you might not be able to make the presentation, please let us know as early as possible.
+
+I'm super excited about the talk and look forward to seeing you in MONTH!
