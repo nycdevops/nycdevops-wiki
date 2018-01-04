@@ -36,6 +36,22 @@
     * Post on everythingsysadmin.com NOW
     * Post on everythingsysadmin.com scheduled for 1 week prior.
     * Send ticket to Stack A/V people that we'll need help.
+
+```
+Subject: A/V help for Tue ??-???-2018 nycdevops meetup from 6-9pm
+
+We'd like A/V assistance for this meetup:
+
+Date: Tue ??-???-2018
+Time: 6:30pm - 9pm
+Place: 28th floor cafeteria
+Event: NYCDEVOPS Meetup https://www.meetup.com/nycdevops
+
+A/V needs:
+1 speaker with 1 laptop, needing 1 microphone
+The ability to record the event via zoom.
+```
+
   * *1 week before:*
     * Re-announce 
   * Day before: *Order food.*
@@ -71,5 +87,6 @@ Sorry for the form letter style of this but... here are some notes and tips that
 * Our attendees are very technical. Don't hold back the technical info. No sales pitches.
 * The most successful presentations have at least one rehearsal in front of a live audience to give feedback.  We recommend doing the talk for coworkers prior to the event.  Alternatively we have volunteers that would gladly do a rehearsal with you over video chat; they give excellent feedback.  
 * In the unlikely event that a problem arises and you might not be able to make the presentation, please let us know as early as possible.
+* Nicole and I are always available if you have any questions!
 
-I'm super excited about the talk and look forward to seeing you in MONTH!
+We're super excited about the talk and look forward to seeing you in MONTH!
