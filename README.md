@@ -1,5 +1,11 @@
 # nycdevops planners wiki
 
+This is replaced by:
+
+[https://docs.google.com/document/d/1BhEBxzZvzz6312tOjN_7gL0TIxr30rY_goHELXhdw2k/edit#](https://docs.google.com/document/d/1BhEBxzZvzz6312tOjN_7gL0TIxr30rY_goHELXhdw2k/edit#)
+
+<!-- 
+
 <p><img src="images/NYCDevOps_logo2017_lores.png" width="30%" height="30%"></p>
 
 # Quick Links and Resources
@@ -90,3 +96,6 @@ Sorry for the form letter style of this but... here are some notes and tips that
 * Nicole and I are always available if you have any questions!
 
 We're super excited about the talk and look forward to seeing you in MONTH!
+
+
+-->
